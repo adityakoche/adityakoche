@@ -21,6 +21,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=adityakoche&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Note : profile username changed from adityakoche01 to adityakoche
+### Profile Update: The GitHub username was updated from adityakoche01 to adityakoche to improve accessibility and maintain a clear, professional online presence.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
